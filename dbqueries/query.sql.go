@@ -3,7 +3,7 @@
 //   sqlc v1.15.0
 // source: query.sql
 
-package refreshSkills
+package dbqueries
 
 import (
 	"context"

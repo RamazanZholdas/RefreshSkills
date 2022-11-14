@@ -7,3 +7,6 @@ launchdb:
 dropcontainer:
 	docker rm postgres12
 
+sqlc:
+	sqlc generate
+
