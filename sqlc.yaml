@@ -5,5 +5,5 @@ sql:
     schema: 'schema.sql'
     gen:
       go:
-        package: 'refreshSkills'
-        out: 'refreshSKills'
+        package: 'dbqueries'
+        out: 'dbqueries'
